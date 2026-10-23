@@ -1,0 +1,4 @@
+-r requirements.txt
+einops==0.8.1
+efficientnet-pytorch==0.7.1
+diffusers==0.11.1
